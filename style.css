@@ -1,0 +1,78 @@
+*{
+    font-family: "Trirong";
+  }
+  header{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  }
+  body{
+    background-color:#0000;
+    font-family: sans-serif;
+    color:rgb(50,50,10);
+  }
+  nav{
+    background-color:rgb(190, 40, 40);
+    padding: 10px;
+  }
+  aside{
+    background-color: #5467;
+    box-shadow: 10px 5px 5px black;
+    }
+  nav, aside{
+    color:aquamarine;
+  }
+  a{
+    text-decoration: none;
+    color: #2898;
+  }
+  a:visited{
+    color: rgb(120, 150, 236);
+  }
+  a:hover{
+    color:blanchedalmond;
+  }
+  section{
+    border: solid 5px black;
+  }
+  h1{
+  font-size: 3em;
+  text-shadow:  white 2px 5px;
+  }
+  p{
+    font-size: 15px;
+    text-align: justify;
+    background-image: linear-gradient(red, yellow);
+  }
+  span{
+  font-weight: bold;
+  }
+  main{
+    background-color: #2445;
+    width: 90%;
+    margin: auto;
+  }
+  li{
+    list-style: none;
+  }
+  h3.UC{
+    color: greenyellow;
+  }
+  h3.About{
+    color:orange;
+  }
+  h2.summary{
+    color: darkgreen;
+    text-shadow: #fc0 1px 0 10px;
+  }
+  h2.features{
+    color: blueviolet;
+    text-shadow: 5px 5px #558abb;
+  }
+  h2.Intro{
+    color: yellow;
+    text-shadow: #fc0 1px 0 10px;
+    margin: 5px;
+  }
+  .Cat{
+    height: 200px;
+    width: 200px;
+  }
